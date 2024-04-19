@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    background-color: white;
+}
+p {
+    text-align: center;
+    font-weight: bolder;
+}
+body {
+    text-align: center;
+}
+a[href="index.html"]{
+    font-weight: 15pt;
+    background-color: orange;
+    line-height: 3;
+    color: black; 
+}
+
+a[href="about.html"]{
+    font-weight: 15pt;
+    background-color: rgb(0, 132, 255);
+    line-height: 3;
+    color: black;  
+}
+
+a[href="contact.html"]{
+    font-weight: 15pt;
+    background-color: rgb(255, 38, 0);
+    line-height: 3;
+    color: black;  
+}
